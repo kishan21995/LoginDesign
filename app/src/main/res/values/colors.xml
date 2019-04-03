@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#23A7D8</color>
+    <color name="colorPrimaryDark">#23A7D8</color>
+    <color name="colorAccent">#ef9494</color>
+    <color name="purple">#3f657c</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="gradStart">#19AA8B</color>
+    <color name="gradStop">#23A7D8</color>
+    <color name="dashboardtop">#8daf9e</color>
+    <color name="Blue">#060661</color>
+    <color name="Black">#03000a</color>
+    <color name="reg_bg">#A67E05</color>
+    <color name="att_bg">#76A63F</color>
+    <color name="view_bg">#F44336</color>
+    <color name="adhar_bg">#673AB7</color>
+
+</resources>
